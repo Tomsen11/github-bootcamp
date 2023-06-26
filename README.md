@@ -22,7 +22,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] 🔨 Hands-on: [Collaboration using Issues, Discussions, and Pages](hol/01-Issues_Discussions_Pages.md)
 
 
-### Part 2: 📊 Portfolio and project management
+### Part 2: 📊 Portfolio and project management 
 
 - [ ] Projects: Backlogs, Metadata, and Boards
 - [ ] Workflows, Insights, and Charts
